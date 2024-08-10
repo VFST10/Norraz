@@ -36,7 +36,7 @@
         <section id="products">
             <div class="product">
               <p><b>Here's a List of Our Current Products</b></p>  
-              <img src="Cute cat keychain.png" alt="Cute Cat Keychain">
+              <img src="Cute_cat_keychain" alt="Cute Cat Keychain">
                 <h3>Cute Cat Keychain</h3>
                 <p class="price">৳250.00</p>
                 <button onclick="addToCart(1)">Add to Cart</button>
